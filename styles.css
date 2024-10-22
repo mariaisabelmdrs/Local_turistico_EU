@@ -16,11 +16,22 @@ h1{
     font-size: 60px;
     font-weight: 460;
     font-style: normal;
+    margin-left: 135px;
 }
+
+h2, h3, h4, h5{
+    margin-top: 60px;
+}
+
 h2, h3, h4, h5, #tituloEG{
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 24px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+    margin-left: 20px;
 }
-p{
+p, li{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 20px;
+}
+#imagemLOC{
+    margin-left: 179px;
 }
